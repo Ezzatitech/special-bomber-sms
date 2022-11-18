@@ -6,5 +6,5 @@ Bomber special sms, source sends many sms to the victim. This source only works 
 git clone https://github.com/Ezzatitech/special-bomber-sms
 cd special-bomber-sms
 pip install -r requirements.txt
-python special-bomber-sms.py
+python sms-bomber.py
 ```
